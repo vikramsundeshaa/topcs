@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://topcs.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TopCs'
 theme = 'papermod'
+
+

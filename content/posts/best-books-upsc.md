@@ -2,15 +2,19 @@
 title: "The best books for the UPSC IAS examination"
 date: 2023-01-18T11:10:46+05:30
 draft: false
+url: /best-books-upsc/
+image: images/thumb/laxmi.jpg
 ---
 
 ## Best books for upsc IAS exam
 The best books for the UPSC IAS examination vary depending on the subject and the individual's learning style. However, some commonly recommended books for the IAS exam are -  
 
 
-
-- Indian Polity by Laxmikanth  
-- Indian Economy by Ramesh Singh  
+These are must read books for a upsc candidate-  
+- Indian Polity by Laxmikanth          ['buy on amazon'](https://amzn.to/3wqGVg8)  
+![](/images/laxmikant.jpg)
+- Indian Economy by Ramesh Singh  [buy on amazon](https://amzn.to/3XqeT05)
+![](/images/rameshsingh.jpg)
 - NCERT textbooks for History, Geography, and Economics  
 - The Hindu newspaper for current affairs  
 - Spectrum's Modern Indian History by Rajiv Ahir  
