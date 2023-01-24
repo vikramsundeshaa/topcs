@@ -4,3 +4,46 @@ title = 'TopCs'
 theme = 'papermod'
 
 
+
+
+[params.homeInfoparams]
+Title = "Hello, welcome dear candidate"
+[[params.socialIcons]]
+name = "facebook"
+url = "www.facebook.com"
+
+[cover]
+linkFullImages = true
+
+showBreadCrumbs = true
+
+ShowReadingTime = true
+
+ShowShareButtons = false
+
+ShowPostNavLinks = true
+
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts"
+    weight = 20
+  [[menu.main]]
+    identifier = "UPSC 2023"
+    name = "UPSC 2023"
+    url = "/UPSC-2023"
+    weight = 30
+  [[menu.main]]
+    identifier = "Archives"
+    name = "Archives"
+    url = "/Archives"
+    weight = 40
+ 
