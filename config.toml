@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'TopCs'
 theme = 'papermod'
 
-
+UseHugoToc = true
 
 
 [params.homeInfoparams]
@@ -22,7 +22,6 @@ ShowReadingTime = true
 ShowShareButtons = false
 
 ShowPostNavLinks = true
-
 
 
 [menu]
