@@ -1,6 +1,6 @@
 ---
 title: "Economic Survey summary 2022-23"
-date: 2023-02-01T08:40:52+05:30
+date: 2023-01-31T08:40:52+05:30
 draft: false
 ---
 
