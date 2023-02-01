@@ -2,6 +2,7 @@
 title: "SUSTAINABLE DEVELOPMENT GOALS (SDG)"
 date: 2023-01-30T02:44:38+05:30
 draft: false
+
 ---
 
 # SUSTAINABLE DEVELOPMENT GOALS (SDG)  
@@ -13,12 +14,7 @@ Countries have committed to prioritize progress for those who're furthest behind
 
 The creativity, knowhow, technology and financial resources from all of society is necessary to achieve the SDGs in every context.
 
-{{ $image := resources.Get "images/sdg1.jpg" }}
-{{ $image := .Resources.GetMatch "sdg1.jpg" }}
-{{ $image := $image.Resize "600x" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
-
-
+![](/images/sdg1.jpg)
 1.No POVERTY : End poverty in all its forms everywhere  
 2.ZERO HUNGER : End hunger, achieve food security and improved nutrition and promote sustainable agriculture  
 3.GOOD HEALTH AND WELL-BEING: Ensure healthy lives and promote well-being for all at all ages  

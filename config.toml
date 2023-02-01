@@ -3,7 +3,13 @@ languageCode = 'en-us'
 title = 'TopCs'
 theme = 'papermod'
 
-UseHugoToc = true
+
+
+
+
+
+
+ShowToc = true
 
 
 [params]

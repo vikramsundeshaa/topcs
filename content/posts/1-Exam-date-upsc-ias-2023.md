@@ -3,10 +3,11 @@ title: "Exam date for upsc IAS 2023"
 date: 2023-01-18T11:10:59+05:30
 draft: false
 weight: 1
-
 ---
 
-![](/images/download.jpeg)
+
+
+
 UPSC IAS 2023 Exam Important Dates
 
 
